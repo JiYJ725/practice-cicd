@@ -6,7 +6,7 @@ import Light from "./Light";
 function App() {
   return (
     <div className="App">
-      <h1>v1 start!!</h1>
+      <h1>v2 수정 했습니다!!</h1>
       <Counter />
       <Light />
     </div>
