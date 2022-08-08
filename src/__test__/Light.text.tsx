@@ -1,5 +1,5 @@
 import {fireEvent, render, screen} from '@testing-library/react';
-import Light from './Light';
+import Light from '../Light';
 
 describe("Light Component Test", () => {
   it('renders Light Component', () => {
